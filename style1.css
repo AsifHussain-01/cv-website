@@ -1,0 +1,51 @@
+
+.c
+{
+    color: white;
+    background-color: blue;
+  
+  
+    padding-top: 10px;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-bottom: 10px;
+    background-color: purple;
+    height: 100%;
+}
+.mn{
+    display: flex;
+    gap: 10px;
+}
+
+.head{
+    display: flex;
+}
+.font
+{
+    font-size: 40px;
+}
+.data
+{
+    color: rgb(0, 0, 0);
+ 
+    
+   
+   
+    font-size: 30px;
+   padding-top: 1px;
+   padding-bottom: 1px;
+   padding-left: 10px;
+   padding-right: 10px;
+   height: 100%;
+   
+}
+.size{
+    width: 100px;
+    height: 100px;
+}
+.img1{
+    display: flex;
+    flex-direction: column;
+    gap: 30px
+}
+
